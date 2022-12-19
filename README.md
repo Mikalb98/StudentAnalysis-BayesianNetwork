@@ -1,7 +1,7 @@
 # Analysis of portuguese students' habits that influence education
 Within the repository we can find:
-- [the jupyter notebook containing the project](https://github.com/matteonestola/FAIKR3/blob/8fef56d578530d8a40ae613abd5746c0ddee9829/BayesianModel_Albarello_Nestola.ipynb);
-- [the report summarising the key steps that led to its realisation](https://github.com/matteonestola/FAIKR3/blob/d26dea70c274b2558bd718b737d01ea76f93d7eb/REPORT_Albarello_Nestola.pdf).
+- [the Jupyter Notebook containing the project](https://github.com/matteonestola/FAIKR3/blob/8fef56d578530d8a40ae613abd5746c0ddee9829/BayesianModel_Albarello_Nestola.ipynb);
+- [the report summarizing the key steps that led to its realization](https://github.com/matteonestola/FAIKR3/blob/d26dea70c274b2558bd718b737d01ea76f93d7eb/REPORT_Albarello_Nestola.pdf).
 
 ## Structure of the jupyter notebook:
 
